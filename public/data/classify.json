@@ -1,0 +1,103 @@
+{
+    "dangao": {
+        "id": 1, 
+        "type": "蛋糕", 
+        "img": "https://www.dangao.com/proimgs/731688175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype":"all"},
+            {"name": "生日", "childtype": "shengridangao"},
+            {"name": "祝寿", "childtype": "zhushoudangao"},
+            {"name": "爱情", "childtype": "songlianren"},
+            {"name": "儿童", "childtype": "songertong"}     
+        ]
+    },
+    "xianhua": {
+        "id": 0, 
+        "type": "鲜花", 
+        "img": "https://www.dangao.com/proimgs/099255175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "生日", "childtype": "shengrikuaile"},
+            {"name": "爱情", "childtype": "langmanaiqing"},
+            {"name": "祝福", "childtype": "weiwentanwang"},
+            {"name": "玫瑰", "childtype": "meigui "}
+        ]
+    },
+    "langmanzuhe": {
+        "id": 8, 
+        "type": "浪漫组合", 
+        "img": "https://www.dangao.com/proimgs/500276175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "鲜花+蛋糕", "childtype": "xhdg"},
+            {"name": "鲜花+巧克力", "childtype": "xhqkl"},
+            {"name": "鲜花+红酒", "childtype": "xhhj"},
+            {"name": "鲜花+玩具", "childtype": "xhmrwj"},
+            {"name": "花束+巧克力", "childtype": "kthsqkl"}
+        ]
+    },
+    "hongjiu": {
+        "id": 2, 
+        "type": "红酒", 
+        "img": "https://www.dangao.com/proimgs/099172175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "法国", "childtype": "faguo"},
+            {"name": "意大利", "childtype": "yidali"}
+        ]
+    },
+    "qiaokeli": {
+        "id": 3,
+        "type": "巧克力",
+        "img": "https://www.dangao.com/proimgs/061020175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "德芙", "childtype": "defu"}
+        ]
+    },
+    "katonghuashu": {
+        "id": 4, 
+        "type": "卡通花束", 
+        "img": "https://www.dangao.com/proimgs/078228175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "考拉熊", "childtype": "all"}
+        ]
+    },
+    "maorongwanju": {
+        "id": 5, 
+        "type": "毛绒玩具", 
+        "img": "https://www.dangao.com/proimgs/665633175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "小熊", "childtype": "xiaoxiongxilie"},
+            {"name": "小猪", "childtype": "xiaozhuxilie"},
+            {"name": "小兔", "childtype": "xiaotuxilie"}
+        ]
+    },
+    "shangyehualan": {
+        "id": 6, 
+        "type": "商业花篮", 
+        "img": "https://www.dangao.com/proimgs/019026175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "商业花篮", "childtype": "shangyehualan"},
+            {"name": "会议桌花", "childtype": "huiyizhuohua"},
+            {"name": "礼仪胸花", "childtype": "liyixionghua"},
+            {"name": "盆栽绿植", "childtype": "penzailvzhi"},
+            {"name": "盆栽鲜花", "childtype": "penzaixianhua"}
+        ]
+    },
+    "guolan": {
+        "id": 7, 
+        "type": "果篮", 
+        "img": "https://www.dangao.com/proimgs/051011175228.jpg",
+        "childType": [
+            {"name": "全部", "childtype": "all"},
+            {"name": "鲜花果篮", "childtype": "xianhuaguolan"},
+            {"name": "红酒果篮", "childtype": "hongjiuguolan"}
+        ]
+    }
+}
+
+
