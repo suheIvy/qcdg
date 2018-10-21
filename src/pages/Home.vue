@@ -1,7 +1,8 @@
 <template>
 	<div class="cake-home">
 		<Topslider></Topslider>
-		<!-- 轮播图 -->
+		<!-- 轮播图轮播图轮播图轮播图轮播图轮播图轮播图轮播图啊		<!-- 轮播图轮播图轮播图轮播图轮播图轮播图轮播图轮播图啊 -->
+ -->
 		<Carousel :swiper_list="swiper_list"></Carousel>
 		<!-- 特点介绍 -->
 		<div class="home-intro">

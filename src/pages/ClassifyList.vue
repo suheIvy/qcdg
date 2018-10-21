@@ -188,7 +188,7 @@ export default {
         // console.log(pageNo)
         let me = this;
         window.addEventListener('scroll', function() {
-            let scrollTop =  document.documentElement.scrollTop;//表示滚动的高度
+            let scrollTop =  document.documentElement.scrollTop;//表示滚动的高度 表示滚动的高度 表示滚动的高度
             let currentTop = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight; //浏览器高度  //经过实践取出来的大多是视口大小
             
             let scrollHeight = document.documentElement.scrollHeight //滚动大小，指的是包含滚动内容的元素大小（元素内容的总高度）
